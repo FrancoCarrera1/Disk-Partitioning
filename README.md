@@ -4,9 +4,6 @@
 
 <h2>List of Prerequisites</h2>
 
-- Windows 10 VM in Azure
-- RDP
-- os Ticket
-- enable IIS and CGI
-- PHP manager for IIS
--  MySQL 5.5.62
+- USB With over 8GB
+- balenaEtcher
+- Linux Mint "Vera" Cinammon
